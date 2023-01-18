@@ -2,6 +2,11 @@
 基于regression2.0.py改的，主要改动是：
 1. 输入参数从3D坐标（Ca_coor）换成了2D像素坐标（Im_x, Im_y）；
 2. 基于co_y的求解代码，构建了求解co_x的代码。
+
+映射的参考资料：
+矩阵最小二乘法求解仿射变换矩阵](https://www.jianshu.com/p/c2d0c743dc5d)
+最小二乘函数numpy.linalg.lstsq()的使用](https://blog.csdn.net/weixin_43544164/article/details/122350501)
+两个平面之间的仿射变换矩阵公式](https://blog.csdn.net/BlueBlueSkyZ/article/details/114504208)
 """
 
 import numpy as np
