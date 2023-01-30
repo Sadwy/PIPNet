@@ -1,0 +1,23 @@
+<root><about author="chenyr" github="https://github.com/chenyr0021" />
+
+<camera_matrix>
+    <data0>1370.6595493760176</data0><data1>0.0</data1><data2>962.4342587814616</data2>
+    <data3>0.0</data3><data4>1359.9758396715808</data4><data5>531.517420579133</data5>
+    <data6>0.0</data6><data7>0.0</data7><data8>1.0</data8>
+    </camera_matrix>
+<new_camera_matrix>
+    <data0>1363.0272216796875</data0><data1>0.0</data1><data2>966.766423314948</data2>
+    <data3>0.0</data3><data4>1076.6622314453125</data4><data5>495.06932166763</data5>
+    <data6>0.0</data6><data7>0.0</data7><data8>1.0</data8>
+    </new_camera_matrix>
+<camera_distortion>
+    <data0>0.05758289232402707</data0>
+    <data1>0.3872748119524002</data1>
+    <data2>-2.8031925797299357e-06</data2>
+    <data3>0.0005746904473905852</data3>
+    <data4>-1.7581227355279188</data4>
+    </camera_distortion>
+<roi>
+    <data0>10</data0><data1>80</data1><data2>1909</data2><data3>844</data3></roi>
+
+</root>
