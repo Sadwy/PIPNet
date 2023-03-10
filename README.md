@@ -159,3 +159,9 @@ sh run_test.sh
 We thank the following great works:
 * [human-pose-estimation.pytorch](https://github.com/microsoft/human-pose-estimation.pytorch)
 * [HRNet-Facial-Landmark-Detection](https://github.com/HRNet/HRNet-Facial-Landmark-Detection)
+
+# Sadwy Note
+* 虚拟试妆
+   * https://www.perfectcorp.com/zh-cn/business
+* 虚拟试衣
+   * http://fxmirror.net/zh/main
